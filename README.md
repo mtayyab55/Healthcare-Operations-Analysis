@@ -46,27 +46,27 @@ A Length of Stay metric was engineered during the Python analysis phase to suppo
 
 Python was used to inspect, clean, transform, and prepare the dataset for SQL and Power BI analysis.
 
-### Missing Value Analysis
+### Billing Amount by Medical Condition
 
-![Missing Value Analysis](screenshots/python_missing_values.png)
+![Billing by Condition](screenshots/python_billing_by_condition.png)
 
-The dataset was reviewed for missing values prior to analysis. No significant missing data was identified.
+Billing amounts were analyzed across medical conditions to identify potential differences in healthcare costs and utilization patterns.
 
 ---
 
 ### Patient Admissions by Admission Type
 
-![Admission Type Analysis](screenshots/python_admission_type_analysis.png)
+![Admission Type Distribution](screenshots/python_admission_type_distribution.png)
 
 Patient admissions were analyzed across Emergency, Urgent, and Elective categories to understand admission distribution patterns.
 
 ---
 
-### Average Length of Stay Analysis
+### Average Length of Stay by Admission Type
 
-![Length of Stay Analysis](screenshots/python_length_of_stay_analysis.png)
+![Length of Stay Analysis](screenshots/python_length_of_stay_by_admission_type.png)
 
-Length of Stay was calculated using admission and discharge dates and analyzed to evaluate hospitalization duration trends.
+Length of Stay was calculated using admission and discharge dates and analyzed across admission categories to evaluate hospitalization duration trends.
 
 ---
 
