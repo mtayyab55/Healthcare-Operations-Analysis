@@ -82,7 +82,7 @@ Python was used to inspect, clean, transform, and prepare the dataset for SQL an
 
 ### Notebook
 
-`notebooks/healthcare_operations_analysis.ipynb`
+[View Python Analysis Notebook](notebooks/healthcare_operations_analysis.ipynb)
 
 ---
 
@@ -116,7 +116,7 @@ The cleaned dataset was imported into PostgreSQL for operational analysis and KP
 
 ### SQL Queries
 
-`sql/healthcare_analysis_queries.sql`
+[View SQL Analysis Queries](sql/healthcare_analysis_queries.sql)
 
 ---
 
@@ -140,7 +140,7 @@ SQL analysis was used to compare average billing amounts across medical conditio
 
 ### Dashboard File
 
-`powerbi/healthcare_operations_dashboard.pbix`
+[Download Power BI Dashboard](powerbi/healthcare_operations_dashboard.pbix)
 
 ---
 
